@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="menuitem_stop" type="id" />
+    <item name="menuitem_scan" type="id" />
+    <item name="menuitem_progress" type="id" />
+</resources>
